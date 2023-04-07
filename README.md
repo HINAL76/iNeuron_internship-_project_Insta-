@@ -1,1 +1,1 @@
-# iNeuron_internship-_project_Insta-
+# Ineuron_Project_Insta
